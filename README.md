@@ -1,1 +1,2 @@
 Hi this is my first posting online public coding attempt, with help ofc, basically MacOS Big Sur but bad ngl lol, it looks nothing like Big Sur but idrc, something cool
+Oh yeah, 1.7 and above needs you to have webview2 installed, click the link under my description on this page or click/type this link https://developer.microsoft.com/en-us/microsoft-edge/webview2?form=MA13LH to get it otherwise safari wont work
